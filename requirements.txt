@@ -1,0 +1,7 @@
+equinox~=0.13.1
+ipywidgets~=8.1.7
+jax~=0.7.2
+jaxopt~=0.8.5
+matplotlib~=3.10.6
+numpy~=2.3.3
+tinygp~=0.3.0
